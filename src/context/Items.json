@@ -1,0 +1,404 @@
+[
+  {
+    "id": "71d46b3e-6b69-58d0-a291-ad77454c663b",
+    "brand": "Toyota",
+    "model": "86",
+    "year": 2023,
+    "price_usd": 30000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/297/930/335/toyota-gt86-car-tuning-wallpaper-preview.jpg",
+    "horsepower": 228,
+    "driven_km": 700
+  },
+  {
+    "id": "82420854-c296-5942-a268-286cb22eea18",
+    "brand": "Nissan",
+    "model": "GTR R35",
+    "year": 2022,
+    "price_usd": 90000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/958/180/43/nissan-gt-r-liberty-walk-blue-rims-hd-wallpaper-preview.jpg",
+    "horsepower": 600,
+    "driven_km": 1200
+  },
+  {
+    "id": "314a5313-7402-53bc-b788-ebe2a1c76706",
+    "brand": "Pagani",
+    "model": "Huayra Imola",
+    "year": 2022,
+    "price_usd": 3100000,
+    "img_url": "https://w0.peakpx.com/wallpaper/282/119/HD-wallpaper-2021-pagani-imola-coupe-turbo-v12-car.jpg",
+    "horsepower": 827,
+    "driven_km": 40
+  },
+  {
+    "id": "fd63aade-aa55-5627-9490-cb852cc2c423",
+    "brand": "Dodge",
+    "model": "Viper",
+    "year": 2023,
+    "price_usd": 90000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/39/166/527/dodge-viper-srt-gts-yellow-supercar-yellow-dodge-viper-wallpaper-preview.jpg",
+    "horsepower": 645,
+    "driven_km": 500
+  },
+  {
+    "id": "e95e115d-4a9a-5ef9-991e-4e89e8646a77",
+    "brand": "Nissan",
+    "model": "GTR R34",
+    "year": 2002,
+    "price_usd": 70000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/10/400/1006/car-nissan-gtr-r34-blue-cars-wallpaper-preview.jpg",
+    "horsepower": 500,
+    "driven_km": 800
+  },
+  {
+    "id": "61d0a31e-9b55-51b2-8e80-ec739e6f298f",
+    "brand": "Toyota",
+    "model": "Camry TRD",
+    "year": 2023,
+    "price_usd": 35000,
+    "img_url": "https://w0.peakpx.com/wallpaper/840/425/HD-wallpaper-2020-toyota-camry-trd-front-three-quarter-car.jpg",
+    "horsepower": 301,
+    "driven_km": 900
+  },
+  {
+    "id": "f4ccf02c-474f-55ec-8a84-c6e760bd256c",
+    "brand": "Toyota",
+    "model": "RAV4 Prime",
+    "year": 2023,
+    "price_usd": 42000,
+    "img_url": "https://w0.peakpx.com/wallpaper/331/755/HD-wallpaper-2021-toyota-rav4-plug-in-hybrid-euro-spec-front-three-quarter-car.jpg",
+    "horsepower": 302,
+    "driven_km": 500
+  },
+  {
+    "id": "7979b8f0-0b50-54ae-855f-a75d325c65dd",
+    "brand": "Toyota",
+    "model": "GR Yaris",
+    "year": 2023,
+    "price_usd": 45000,
+    "img_url": "https://e0.pxfuel.com/wallpapers/911/688/desktop-wallpaper-2023-toyota-gr-corolla-front-view-exterior-gray-new-corolla-corolla-tuning-japanese-cars-toyota.jpg",
+    "horsepower": 268,
+    "driven_km": 600
+  },
+  {
+    "id": "0b4f1e75-d431-508d-b1bc-a8cfbee8df39",
+    "brand": "Nissan",
+    "model": "GTR R33",
+    "year": 1998,
+    "price_usd": 50000,
+    "img_url": "https://w0.peakpx.com/wallpaper/171/793/HD-wallpaper-skyline-r-33-cars-nissan-r33-skyline-tuning.jpg",
+    "horsepower": 450,
+    "driven_km": 1000
+  },
+  {
+    "id": "d5026d57-db42-52b5-8f06-18b7e9217e48",
+    "brand": "Nissan",
+    "model": "GTR R32",
+    "year": 1994,
+    "price_usd": 40000,
+    "img_url": "https://jdm-expo.com/41873-available_cars_bubu/nissan-skyline-r34-sale.jpg",
+    "horsepower": 276,
+    "driven_km": 1200
+  },
+  {
+    "id": "cc3fa53b-bbd9-5f96-8ba7-f415c0b6b513",
+    "brand": "Ferrari",
+    "model": "812 Superfast",
+    "year": 2023,
+    "price_usd": 450000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/551/833/202/ferrari-812-superfast-2017-4k-wallpaper-preview.jpg",
+    "horsepower": 789,
+    "driven_km": 2000
+  },
+  {
+    "id": "d5482275-c75a-5f25-9726-897631db1c7e",
+    "brand": "Ferrari",
+    "model": "Roma",
+    "year": 2023,
+    "price_usd": 350000,
+    "img_url": "https://w0.peakpx.com/wallpaper/386/874/HD-wallpaper-2021-ferrari-roma-red-car-ultra-motors-supercars-ferrari-roma-redcar-2021.jpg",
+    "horsepower": 612,
+    "driven_km": 2500
+  },
+
+  {
+    "id": "4f3f7508-9c42-524a-a51c-c45d918a7ba8",
+    "brand": "Nissan",
+    "model": "370Z",
+    "year": 2023,
+    "price_usd": 50000,
+    "img_url": "https://e1.pxfuel.com/desktop-wallpaper/75/322/desktop-wallpaper-2019-nissan-370z-nismo-exterior-nissan-370z-nismo.jpg",
+    "horsepower": 400,
+    "driven_km": 1500
+  },
+  {
+    "id": "1950b44b-bb9e-5886-af66-16559f8a6eaa",
+    "brand": "Mercedes",
+    "model": "AMG GT",
+    "year": 2023,
+    "price_usd": 200000,
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg/1200px-Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg",
+    "horsepower": 577,
+    "driven_km": 1200
+  },
+  {
+    "id": "ffdeee4d-aec1-5724-93ab-074d5547a581",
+    "brand": "Mercedes",
+    "model": "CLA 45 AMG",
+    "year": 2023,
+    "price_usd": 60000,
+    "img_url": "https://w0.peakpx.com/wallpaper/334/437/HD-wallpaper-2020-mercedes-amg-cla-45-color-designo-mountain-gray-magno-front-three-quarter-car.jpg",
+    "horsepower": 382,
+    "driven_km": 800
+  },
+  {
+    "id": "5e1cc4d0-c660-5bf4-9119-ab614828f967",
+    "brand": "Dodge",
+    "model": "Charger Hellcat",
+    "year": 2023,
+    "price_usd": 75000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/265/868/943/2015-dodge-charger-srt-hellcat-wallpaper-preview.jpg",
+    "horsepower": 707,
+    "driven_km": 800
+  },
+  {
+    "id": "90a63904-a7fb-536f-a3df-99bb84690f52",
+    "brand": "Mercedes",
+    "model": "C63 AMG",
+    "year": 2023,
+    "price_usd": 75000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/270/676/911/mercedes-benz-mercedes-benz-c63-amg-wallpaper-preview.jpg",
+    "horsepower": 503,
+    "driven_km": 1000
+  },
+  {
+    "id": "6c49d490-5310-5f8c-9b12-0527a7cee4ea",
+    "brand": "Mercedes",
+    "model": "E63 AMG",
+    "year": 2023,
+    "price_usd": 85000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/429/790/374/2013-amg-benz-e63-wallpaper-preview.jpg",
+    "horsepower": 603,
+    "driven_km": 900
+  },
+  {
+    "id": "aa99eea9-7096-507f-95e6-44326d1edff0",
+    "brand": "Mercedes",
+    "model": "S63 AMG",
+    "year": 2023,
+    "price_usd": 100000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/987/825/146/mercedes-benz-mercedes-amg-s63-black-car-car-wallpaper-preview.jpg",
+    "horsepower": 603,
+    "driven_km": 1100
+  },
+  {
+    "id": "5b554173-d6d8-57d4-a7c5-d3fd9e7caf6c",
+    "brand": "Pagani",
+    "model": "Huayra",
+    "year": 2022,
+    "price_usd": 2500000,
+    "img_url": "https://w0.peakpx.com/wallpaper/291/775/HD-wallpaper-2021-pagani-huayra-tricolore-8k-cars.jpg",
+    "horsepower": 827,
+    "driven_km": 25
+  },
+  {
+    "id": "2aa5a62b-f2e3-5be3-9605-880d7e1ad35e",
+    "brand": "Pagani",
+    "model": "Zonda",
+    "year": 2022,
+    "price_usd": 2800000,
+    "img_url": "https://wallpapersmug.com/download/1024x768/ac281f/blue-Pagani-Zonda-sports-supercar.jpg",
+    "horsepower": 760,
+    "driven_km": 50
+  },
+
+  {
+    "id": "a99003cb-a411-506b-a8c1-a2b1a0ec5071",
+    "brand": "Dodge",
+    "model": "Demon",
+    "year": 2023,
+    "price_usd": 95000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/850/504/954/vehicles-dodge-challenger-srt-demon-hd-wallpaper-preview.jpg",
+    "horsepower": 808,
+    "driven_km": 400
+  },
+  {
+    "id": "7b80c911-862b-5984-ba37-6386afb8fd6a",
+    "brand": "Pagani",
+    "model": "Huayra Roadster",
+    "year": 2022,
+    "price_usd": 2600000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/192/429/72/pagani-pagani-huayra-roadster-bc-car-convertible-silver-car-hd-wallpaper-preview.jpg",
+    "horsepower": 753,
+    "driven_km": 30
+  },
+  {
+    "id": "78a80e3e-e839-5c3a-91d5-2447e9403b89",
+    "brand": "Ferrari",
+    "model": "488 GTB",
+    "year": 2023,
+    "price_usd": 300000,
+    "img_url": "https://images.hdqwalls.com/download/ferrari-488-pista-2018-mr-1280x720.jpg",
+    "horsepower": 661,
+    "driven_km": 5000
+  },
+  {
+    "id": "359faa40-25c7-556f-8b85-f32f18658547",
+    "brand": "Ferrari",
+    "model": "SF90 Stradale",
+    "year": 2023,
+    "price_usd": 400000,
+    "img_url": "https://w0.peakpx.com/wallpaper/728/427/HD-wallpaper-novitec-ferrari-sf90-stradale-2022-8k-4.jpg",
+    "horsepower": 986,
+    "driven_km": 3000
+  },
+  {
+    "id": "8ff79961-673a-53f2-a2f7-b04691a4b455",
+    "brand": "Ferrari",
+    "model": "F8 Tributo",
+    "year": 2023,
+    "price_usd": 350000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/984/800/871/ferrari-f8-tributo-ferrari-car-supercars-italian-supercars-hd-wallpaper-preview.jpg",
+    "horsepower": 710,
+    "driven_km": 4000
+  },
+  {
+    "id": "38e1c13a-494f-5846-b709-257a9e30a26a",
+    "brand": "Toyota",
+    "model": "Supra",
+    "year": 2023,
+    "price_usd": 55000,
+    "img_url": "https://e0.pxfuel.com/wallpapers/824/651/desktop-wallpaper-toyota-gr-supra-a91-mt-2023-3-cars.jpg",
+    "horsepower": 382,
+    "driven_km": 800
+  },
+  {
+    "id": "ce5cb284-cf59-59b5-b038-1ee74b4f8b69",
+    "brand": "Dodge",
+    "model": "Durango SRT",
+    "year": 2023,
+    "price_usd": 80000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/825/853/264/dodge-durango-srt-wallpaper-preview.jpg",
+    "horsepower": 710,
+    "driven_km": 600
+  },
+  {
+    "id": "d20ebbc2-24c2-54f9-9dee-58b7e8700363",
+    "brand": "Pagani",
+    "model": "Zonda Roadster",
+    "year": 2022,
+    "price_usd": 2900000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/140/249/177/pagani-pagani-zonda-car-pagani-zonda-roadster-f-wallpaper-preview.jpg",
+    "horsepower": 660,
+    "driven_km": 35
+  },
+  {
+    "id": "68206ba9-73f2-5c6c-963b-ae4563c8d9f7",
+    "brand": "Dodge",
+    "model": "Challenger Hellcat",
+    "year": 2023,
+    "price_usd": 70000,
+    "img_url": "https://c4.wallpaperflare.com/wallpaper/906/968/872/dodge-challenger-srt-hellcat-widebody-full-for-desktop-wallpaper-preview.jpg",
+    "horsepower": 717,
+    "driven_km": 700
+  },
+  {
+    "id": "6dd58f5c-c8cf-5c74-90be-9591389b545a",
+    "brand": "Toyota",
+    "model": "Land Cruiser",
+    "year": 2023,
+    "price_usd": 75000,
+    "img_url": "",
+    "horsepower": 381,
+    "driven_km": 900
+  },
+  {
+    "id": "d6d9c763-c1fc-5637-97f1-c92f5a18218d",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2023,
+    "price_usd": 30000,
+    "img_url": "",
+    "horsepower": 169,
+    "driven_km": 1200
+  },
+  {
+    "id": "7dc139fa-c15b-5a9e-87e1-3d4784332cc4",
+    "brand": "Mercedes",
+    "model": "GLC Coupe",
+    "year": 2023,
+    "price_usd": 70000,
+    "img_url": "",
+    "horsepower": 255,
+    "driven_km": 800
+  },
+  {
+    "id": "4ef99f99-77a0-5393-b765-8ab5d3e7bc5a",
+    "brand": "Mercedes",
+    "model": "S-Class",
+    "year": 2023,
+    "price_usd": 120000,
+    "img_url": "",
+    "horsepower": 496,
+    "driven_km": 500
+  },
+  {
+    "id": "5dc87f2f-7c42-5ebf-9bf1-b4d8c6ab61d9",
+    "brand": "Ferrari",
+    "model": "F8 Tributo",
+    "year": 2023,
+    "price_usd": 350000,
+    "img_url": "",
+    "horsepower": 710,
+    "driven_km": 1000
+  },
+  {
+    "id": "4ee53bba-0cd5-5c5d-935a-687a5ca543a3",
+    "brand": "Ferrari",
+    "model": "Portofino M",
+    "year": 2023,
+    "price_usd": 250000,
+    "img_url": "",
+    "horsepower": 612,
+    "driven_km": 700
+  },
+  {
+    "id": "b6dfa365-e2cf-5fcf-94e3-e04f46163af4",
+    "brand": "Pagani",
+    "model": "Imola",
+    "year": 2023,
+    "price_usd": 3500000,
+    "img_url": "",
+    "horsepower": 827,
+    "driven_km": 400
+  },
+  {
+    "id": "69ec3a15-b2f9-5595-a3ae-2efcd5ba20af",
+    "brand": "Pagani",
+    "model": "Huayra BC",
+    "year": 2023,
+    "price_usd": 2900000,
+    "img_url": "",
+    "horsepower": 791,
+    "driven_km": 300
+  },
+  {
+    "id": "784c1589-099f-567c-8b4a-ec9e3e239ac7",
+    "brand": "Dodge",
+    "model": "Challenger",
+    "year": 2023,
+    "price_usd": 65000,
+    "img_url": "",
+    "horsepower": 717,
+    "driven_km": 600
+  },
+  {
+    "id": "d841ea8b-fb12-5a0a-9586-6a8395b3020f",
+    "brand": "Dodge",
+    "model": "Ram 1500 TRX",
+    "year": 2023,
+    "price_usd": 70000,
+    "img_url": "",
+    "horsepower": 702,
+    "driven_km": 800
+  }
+]
